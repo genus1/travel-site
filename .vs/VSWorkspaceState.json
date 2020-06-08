@@ -3,8 +3,9 @@
     "",
     "\\app",
     "\\app\\assets",
-    "\\app\\assets\\scripts"
+    "\\app\\assets\\scripts",
+    "\\app\\assets\\styles"
   ],
-  "SelectedNode": "\\app\\assets\\scripts\\App.js",
+  "SelectedNode": "\\webpack.config.js",
   "PreviewInSolutionExplorer": false
 }

@@ -1,1 +1,2 @@
-alert("Hello this is just a test.");
+import '../styles/styles.css';
+//alert("npm run build not dev then ctrl c to end.");
